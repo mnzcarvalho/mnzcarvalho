@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mnzcarvalho/mnzcarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Yo 👋
 
-Here are some ideas to get you started:
+```bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻 Software Development Student
+ ⚡ Backend & AI
+ 🗄️ MySQL | Git | GitHub
+```
+
+<img width="145" height="213" alt="retro_code_rgb (2)" src="https://github.com/user-attachments/assets/29b78807-de8e-47f1-8b65-0ed890946737" />
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/linkedin-171515?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/instagram-171515?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</p>
+
+</div>
