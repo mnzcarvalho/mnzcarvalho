@@ -2,7 +2,7 @@
 
  💻 Software Development Student  
  ⚡ Backend & AI  
- 🗄️ MySQL | Git | GitHub  
+ 🗄️ SQL | Git | GitHub  
  
 
 <img width="145" height="213" alt="retro_code_rgb (2)" src="https://github.com/user-attachments/assets/29b78807-de8e-47f1-8b65-0ed890946737" />
